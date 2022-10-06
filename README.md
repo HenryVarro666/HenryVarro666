@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenryVarro666
+- 👋 Hi, I’m Chao Cao (曹潮) @HenryVarro666
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to collaborate on Medical Images
